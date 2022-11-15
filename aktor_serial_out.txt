@@ -1,0 +1,24 @@
+OLED initialisation complete !
+Wifi AP initialisation complete!
+Client connected to TCP Port 333
+IP Package: +IPD,0,29:AT+CIPSEND=29
+#-i1-s1000
+Length: 35
+Animation Parameter: #-i1-s1000
+IP Package: +IPD,0,29:AT+CIPSEND=29
+#-i1-s1500
+Length: 35
+Animation Parameter: #-i1-s1500
+IP Package: +IPD,0,29:AT+CIPSEND=29
+#-i0-s1500
+Length: 35
+Animation Parameter: #-i0-s1500
+IP Package: +IPD,0,29:AT+CIPSEND=29
+#-i0-s2000
+Length: 35
+Animation Parameter: #-i0-s2000
+IP Package: +IPD,0,29:AT+CIPSEND=29
+#-i0-s2500
+Length: 35
+Animation Parameter: #-i0-s2500
+
